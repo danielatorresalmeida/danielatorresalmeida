@@ -4,7 +4,9 @@ Software Developer in training, focused on Front-End and Full-Stack Web Developm
 
 ## About
 
-I bring previous experience in a technology startup, working across Front-End, UI/UX, APIs and automation. I am currently completing a Software Developer programme with **650 hours of technical training**, followed by a **400-hour curricular internship expected to start around February/March 2027**.
+I bring practical experience in a technology startup, working across Front-End, UI/UX, APIs and automation. I completed **Linguagens de Programação - Programação em JAVA** at IEFP / Centro de Emprego e Formação Profissional de Faro in **July 2026 (350h)**, covering Java web development, algorithms, C/C++ fundamentals, SQL, database access, software engineering and programming projects.
+
+My next step is **Software Developer at CESAE Digital · PRO_MOV by Reskilling4Employment**, scheduled for **22 September 2026 - 20 May 2027**: **1050h total**, comprising 50h transversal skills, 600h technical training and a 400h FPCT curricular internship. The FPCT is scheduled for **1 March - 20 May 2027**. Future training modules are not presented as completed skills.
 
 I am looking for an internship where I can contribute, learn with an engineering team and, if there is mutual interest, continue as a Junior Developer afterwards.
 
@@ -16,7 +18,7 @@ React · TypeScript · JavaScript · Java · Spring Boot · HTML · CSS · Postg
 
 ### [DevFlow Hub](https://github.com/danielatorresalmeida/DevFlow_Hub)
 
-My main full-stack project: project and task management with a React / TypeScript frontend, Java / Spring Boot backend and PostgreSQL. The delivered academic version includes authentication, role and permission logic, automated tests and CI. Further authorization hardening and deployment improvements remain on the roadmap.
+My main full-stack project: project and task management with a React / TypeScript frontend, Java / Spring Boot backend and PostgreSQL. The delivered academic version includes authentication, role and permission logic, automated tests and CI. System roles, document authorization and a reproducible local demo are validated in PR #53, which remains open and unmerged.
 
 ### [To-Do List App](https://github.com/danielatorresalmeida/To-Do-List-App)
 
