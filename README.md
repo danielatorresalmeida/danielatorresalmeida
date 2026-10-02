@@ -11,9 +11,9 @@ My work spans frontend, backend and testing, with projects using
 I'm particularly interested in clean user interfaces, APIs, testing,
 accessibility and software architecture.
 
-🎯 Currently preparing for my **FPCT curricular internship (March–May 2027)**
-and looking for opportunities in Software Development where I can contribute,
-learn with an engineering team and potentially continue as a Junior Developer.
+🎯 Open to **FPCT curricular internship opportunities (March–May 2027)**
+in Software Development, with the goal of contributing to an engineering team,
+growing professionally and progressing into a Junior Developer role.
 
 ---
 
