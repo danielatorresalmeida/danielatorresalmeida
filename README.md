@@ -66,7 +66,7 @@ Terminal fishing game built in C with ncurses, featuring nine game modes, local 
 
 ## 🌱 Currently learning
 
-Software architecture · C# · Web Development · Databases ·
+C# · .NET · Software Architecture · Databases ·
 Testing · Accessibility · UI/UX
 
 ---
