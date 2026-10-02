@@ -55,6 +55,10 @@ accessibility and automated testing**.
 Automated API testing project covering HTTP responses, JSON validation,
 data checks, reporting and CI.
 
+### [Penguin Fishing Game](https://github.com/danielatorresalmeida/Projeto_Final_C_Penguin_Fishing_Game)
+
+Terminal fishing game built in C with ncurses, featuring nine game modes, local two-player gameplay and modular architecture.
+
 ---
 
 ## 🌱 Currently learning
