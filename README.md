@@ -46,8 +46,6 @@ React, TypeScript and PostgreSQL**.
 Features JWT authentication, role-based permissions, task and time tracking,
 automated backend/frontend testing and GitHub Actions CI.
 
-Includes authentication, role-based permissions, automated testing and CI.
-
 ### [To-Do List App](https://github.com/danielatorresalmeida/To-Do-List-App)
 
 Task management application built with **React and TypeScript**, featuring
@@ -67,6 +65,7 @@ featuring response validation, HTML reporting and GitHub Actions CI.
 
 Terminal fishing game built in **C with ncurses**, featuring nine game modes,
 local two-player gameplay, modular architecture and automated build validation with GitHub Actions.
+
 ---
 
 ## 🌱 Currently learning
