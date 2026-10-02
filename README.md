@@ -36,7 +36,7 @@ Git · GitHub · Automated Testing · CI · Accessibility · Figma
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
 ### [DevFlow Hub](https://github.com/danielatorresalmeida/DevFlow_Hub)
 
@@ -50,21 +50,6 @@ automated backend/frontend testing and GitHub Actions CI.
 
 Task management application built with **React and TypeScript**, featuring
 Firebase authentication, Google Calendar integration, automated tests and GitHub Pages deployment.
-
-### [Portfolio](https://github.com/danielatorresalmeida/Portfolio-website)
-
-Responsive bilingual portfolio built with **HTML, CSS and JavaScript**,
-focused on accessibility, automated testing and continuous integration.
-
-### [API QA Test Suite](https://github.com/danielatorresalmeida/api-qa-test-suite)
-
-API smoke-test automation project built with **Python, Requests and pytest**,
-featuring response validation, HTML reporting and GitHub Actions CI.
-
-### [Penguin Fishing Game](https://github.com/danielatorresalmeida/Projeto_Final_C_Penguin_Fishing_Game)
-
-Terminal fishing game built in **C with ncurses**, featuring nine game modes,
-local two-player gameplay, modular architecture and automated build validation with GitHub Actions.
 
 ---
 
