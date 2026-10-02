@@ -5,8 +5,10 @@
 I'm a software developer based in Cascais, Portugal, currently completing the
 **Software Developer programme at CESAE Digital · PRO_MOV by Reskilling4Employment**.
 
-I build web applications with **React, TypeScript, Java, Spring Boot and SQL**,
-with a particular interest in clean user interfaces, APIs, testing,
+My work spans frontend, backend and testing, with projects using
+**React, TypeScript, Java, Spring Boot, Python, C and SQL**.
+
+I'm particularly interested in clean user interfaces, APIs, testing,
 accessibility and software architecture.
 
 🎯 Currently preparing for my **FPCT curricular internship (March–May 2027)**
