@@ -57,8 +57,8 @@ accessibility and automated testing**.
 
 ### [API QA Test Suite](https://github.com/danielatorresalmeida/api-qa-test-suite)
 
-Automated API testing project covering HTTP responses, JSON validation,
-data checks, reporting and CI.
+API smoke-test automation project built with **Python, Requests and pytest**,
+featuring response validation, HTML reporting and GitHub Actions CI.
 
 ### [Penguin Fishing Game](https://github.com/danielatorresalmeida/Projeto_Final_C_Penguin_Fishing_Game)
 
