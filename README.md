@@ -17,11 +17,14 @@ learn with an engineering team and potentially continue as a Junior Developer.
 
 ## 🛠️ Tech
 
+**Languages**  
+Java · TypeScript · JavaScript · Python · C
+
 **Frontend**  
-React · TypeScript · JavaScript · HTML · CSS
+React · HTML · CSS
 
 **Backend**  
-Java · Spring Boot · REST APIs
+Spring Boot · REST APIs
 
 **Data**  
 PostgreSQL · SQL · Firebase
