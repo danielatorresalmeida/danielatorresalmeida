@@ -1,6 +1,6 @@
 # Hi, I'm Daniela 👋
 
-### Software Developer Trainee | Front-End & Full-Stack Development
+### Software Developer Trainee | Front-End · Full-Stack · Software Engineering
 
 I'm a software developer based in Cascais, Portugal, currently completing the
 **Software Developer programme at CESAE Digital · PRO_MOV by Reskilling4Employment**.
