@@ -40,20 +40,23 @@ Git · GitHub · Automated Testing · CI · Accessibility · Figma
 
 ### [DevFlow Hub](https://github.com/danielatorresalmeida/DevFlow_Hub)
 
-Full-stack project and task management application built with
-**React, TypeScript, Java, Spring Boot and PostgreSQL**.
+Full-stack project management platform built with **Java 21, Spring Boot,
+React, TypeScript and PostgreSQL**.
+
+Features JWT authentication, role-based permissions, task and time tracking,
+automated backend/frontend testing and GitHub Actions CI.
 
 Includes authentication, role-based permissions, automated testing and CI.
 
 ### [To-Do List App](https://github.com/danielatorresalmeida/To-Do-List-App)
 
-Task management application using **React and TypeScript**, with Firebase
-authentication, Google Calendar integration and automated tests.
+Task management application built with **React and TypeScript**, featuring
+Firebase authentication, Google Calendar integration, automated tests and GitHub Pages deployment.
 
 ### [Portfolio](https://github.com/danielatorresalmeida/Portfolio-website)
 
-Responsive bilingual portfolio focused on **frontend development,
-accessibility and automated testing**.
+Responsive bilingual portfolio built with **HTML, CSS and JavaScript**,
+focused on accessibility, automated testing and continuous integration.
 
 ### [API QA Test Suite](https://github.com/danielatorresalmeida/api-qa-test-suite)
 
@@ -62,8 +65,8 @@ featuring response validation, HTML reporting and GitHub Actions CI.
 
 ### [Penguin Fishing Game](https://github.com/danielatorresalmeida/Projeto_Final_C_Penguin_Fishing_Game)
 
-Terminal fishing game built in C with ncurses, featuring nine game modes, local two-player gameplay and modular architecture.
-
+Terminal fishing game built in **C with ncurses**, featuring nine game modes,
+local two-player gameplay, modular architecture and automated build validation with GitHub Actions.
 ---
 
 ## 🌱 Currently learning
