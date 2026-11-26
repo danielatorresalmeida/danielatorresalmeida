@@ -16,6 +16,8 @@ I work with **JavaScript/TypeScript, React, Java/Spring Boot, PHP/Laravel, C# (i
 
 **PHP · Laravel · Blade · MySQL · Eloquent · Open Opus API**
 
+[Project case study (EN/PT)](https://danielatorresalmeida.github.io/Portfolio-website/projects/opus/) · [Source code](https://github.com/danielatorresalmeida/opus-laravel)
+
 Completed CESAE Digital project (November 2026). Catalogue of composers and works, with search and filters, login, role-based permissions, favourites, optional image/PDF uploads and selective import from the Open Opus API. The import flow checks for existing entries and preserves locally edited data.
 
 ### [DevFlow Hub](https://github.com/danielatorresalmeida/DevFlow_Hub)
